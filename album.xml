@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Альбом</Title>
+  <Artist>Исполнитель</Artist>
+  <Year>2000</Year>
+  <Duration>P50D</Duration>
+  <RecordLabel>Студия</RecordLabel>
+  <Songs>
+    <Song>
+      <Title>Песня</Title>
+      <Style>Жанр</Style>
+      <Duration>P30D</Duration>
+    </Song>
+  </Songs>
+</Album>
